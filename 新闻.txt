@@ -1,0 +1,80 @@
+News,#genre#
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+CNN,http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8
+CNC(CN),http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
+CNC(EN),http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
+CGTN(EN),http://live.cgtn.com/1000/prog_index.m3u8?zshijd
+CGTN(EN),http://live.cgtn.com/500/prog_index.m3u8?zshijd
+CGTN,mitv://generationnexxxt.com:19806/b1f0e7e90e654f63a369f11b54428643
+CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
+
+NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+NHK·World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+Al Jazeera,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
+BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
+CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
+Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
+Euronews,https://euronews.alteox.app/hls/en_stream.m3u8#https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
+France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
+
+Astro AEC,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
+Sky News,mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052
+ABC Australia,mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a
+TVB娱乐新闻台,mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
+
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+
+
+民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻 HD,http://tv.redrainl.site:9500/live.m3u8?c=01
+
+台视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
+台视新闻 HD,https://git.io/JgkxY
+台视新闻 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+台视新闻 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+
+中视新闻 HD,https://git.io/Jgkxz
+中视新闻 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+中视新闻 HD,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+中视新闻 HD,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8
+
+华视新闻资讯 HD,http://stream.dsichannel.com:80/hls/cts-news.m3u8
+华视新闻资讯 HD,http://stream.dsichannel.com/hls/cts-news.m3u8
+三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
+
+三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+三立iNEWS,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setinews.m3u8
+三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+
+寰宇新闻,http://tv.redrainl.site:9500/live.m3u8?c=22
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+镜新闻Mnews,http://tv.redrainl.site:9500/live.m3u8?c=28
+镜新闻Mnews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+镜新闻Mnews,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/daai2.m3u8
+镜新闻Mnews,https://ytm2.yuanhsing.cf/mnews.m3u8
+
+中天新闻,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=3
+中天新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctitv.m3u8
+中天新闻,https://git.io/Jgkpy
